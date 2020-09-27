@@ -6,6 +6,11 @@ Este repositorio considera la implementacion de una función heurística para 
 - Gonzalo Tello
 - Mario Dorochesi
 
+## Ejecución
+``` 
+python3 main.py "python3 advanced_controller.py" -g 
+```
+
 ## **Algoritmo Propuesto**
 
 ### **Grafo Implícito**
